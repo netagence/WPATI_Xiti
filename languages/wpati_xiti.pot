@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-14 11:30+0300\n"
+"PO-Revision-Date: 2016-08-22 21:48+0200\n"
+"Last-Translator: Pierre MOBIAN <wordpress.translations@netagence.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wpati_xiti-admin.php:105
+msgid "WPATI_Xiti Settings"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:106
+msgid "WPATI_Xiti"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:130
+msgid "General"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:137
+msgid "Account number"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:146
+msgid "Use secure tracking?"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:155
+msgid "Do not log connected users?"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:185
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:197
+msgid "Enter your infos and preferences here"
+msgstr ""
+
+#: admin/class-wpati_xiti-admin.php:198
+msgid ""
+"You may get your account ID and details in your <a href=\"https://apps."
+"atinternet-solutions.com/\">AT Internet account</a>"
+msgstr ""
+
+#: public/class-wpati_xiti-public.php:120
+msgid ""
+"AT Internet tracking code here, hidden because you are a connected, "
+"non-tracked user"
+msgstr ""
